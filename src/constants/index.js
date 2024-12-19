@@ -15,10 +15,10 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
-  shopify,
+  johnhopkinsuniversity,
+  wongdoody,
+  infosys,
+  perficient,
   carrent,
   jobit,
   tripguide,
@@ -117,8 +117,8 @@ const technologies = [
 const experiences = [
   {
     title: "Web Designer",
-    company_name: "Starbucks",
-    icon: starbucks,
+    company_name: "WONGDOODY",
+    icon: wongdoody,
     iconBg: "#383E56",
     date: "June 2017 - Jan 2018",
     points: [
@@ -129,8 +129,8 @@ const experiences = [
   },
   {
     title: "UX/UI Designer",
-    company_name: "Tesla",
-    icon: tesla,
+    company_name: "Infosys",
+    icon: infosys,
     iconBg: "#E6DEDD",
     date: "Jan 2018 - Jan 2019",
     points: [
@@ -142,8 +142,8 @@ const experiences = [
   },
   {
     title: "UX Developer",
-    company_name: "Shopify",
-    icon: shopify,
+    company_name: "Perficient",
+    icon: perficient,
     iconBg: "#383E56",
     date: "Jan 2019 - Feb 2022",
     points: [
@@ -161,8 +161,8 @@ const experiences = [
   },
   {
     title: "UX Developer",
-    company_name: "Meta",
-    icon: meta,
+    company_name: "John Hopkins University",
+    icon: johnhopkinsuniversity,
     iconBg: "#E6DEDD",
     date: "Feb 2022 - Present",
     points: [
