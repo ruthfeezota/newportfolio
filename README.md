@@ -5,41 +5,14 @@
     </a>
   <br />
 
-  <div>
-    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
-    <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-  </div>
 
-  <h3 align="center">A 3D Developer Portfolio</h3>
+  <h3 align="center">Ruth Zota 3D Developer Portfolio</h3>
    
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets](#snippets)
-6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
 
-## 🚨 Tutorial
 
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/0fYi8SGA20k?feature=shared" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
-
-## <a name="introduction">🤖 Introduction</a>
-
-By developing this project, you will gain hands-on experience in crafting immersive web experiences, mastering 3D libraries, and implementing engaging animations. The combination of creativity and technical skills showcased in this project serves as an excellent learning opportunity for developers seeking to enhance their portfolio and captivate users with cutting-edge web design.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
-
-## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - React.js
 - Three.js
