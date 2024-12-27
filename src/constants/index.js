@@ -208,16 +208,16 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Blazing Energy",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Dynamic 3D web platform using Three.js, Firebase, and Firebase Hosting. This platform enables interactive 3D experiences, powered by real-time data synchronization through Firebase.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "firebase",
         color: "green-text-gradient",
       },
       {
@@ -226,7 +226,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/ruthfeezota",
+    source_code_link: "https://candropsproject1.web.app/",
   },
   {
     name: "Job IT",
