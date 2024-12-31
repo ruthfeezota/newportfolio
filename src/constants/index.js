@@ -264,12 +264,12 @@ const projects = [
     source_code_link: "https://github.com/ruthfeezota",
   },
   {
-    name: "Trip Guide",
+    name: "Can We Smoke",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "A cannabis application that monitors and logs user-reported intoxication periods.",
     tags: [
       {
-        name: "nextjs",
+        name: "three.js",
         color: "blue-text-gradient",
       },
       {
@@ -282,7 +282,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/ruthfeezota",
+    source_code_link: "https://bulgetextapp.firebaseapp.com",
   },
 ];
 
