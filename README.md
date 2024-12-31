@@ -353,7 +353,7 @@ const projects = [
   {
     name: "Can We Smoke",
     description:
-      "A cannabis application that monitors and logs user-reported intoxication periods.",
+      "This innovative cannabis application empowers users to proactively track and manage their personal experiences with cannabis intoxication by providing a platform for meticulously logging the onset, duration, and perceived intensity of their individual intoxication periods. ",
     tags: [
       {
         name: "three.js",
