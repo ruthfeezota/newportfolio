@@ -116,6 +116,7 @@ import {
   wongdoody,
   infosys,
   perficient,
+  freelance,
   carrent,
   jobit,
   tripguide,
@@ -212,6 +213,19 @@ const technologies = [
 ];
 
 const experiences = [
+   {
+    title: "Junior 3D Designer and Developer",
+    company_name: "Freelance",
+    icon: freelance,
+    iconBg: "#E6DEDD",
+    date: "June 2024 - Current",
+    points: [
+      "Developing and maintaining web applications using React.js and other related technologies.",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
+    ],
+  },
   {
     title: "UX Developer",
     company_name: "WONGDOODY",

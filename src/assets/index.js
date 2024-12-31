@@ -25,6 +25,7 @@ import johnhopkinsuniversity from "./company/john_hopkins_university.jpeg";
 import perficient from "./company/perficient.jpeg";
 import wongdoody from "./company/wongdoody.jpeg";
 import infosys from "./company/infosys.jpeg";
+import freelance from "./company/freelance.png"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -56,6 +57,7 @@ export {
   perficient,
   wongdoody,
   infosys,
+  freelance,
   carrent,
   jobit,
   tripguide,

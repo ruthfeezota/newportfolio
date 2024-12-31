@@ -19,6 +19,7 @@ import {
   wongdoody,
   infosys,
   perficient,
+  freelance,
   carrent,
   jobit,
   tripguide,
@@ -164,7 +165,7 @@ const experiences = [
     company_name: "John Hopkins University",
     icon: johnhopkinsuniversity,
     iconBg: "#E6DEDD",
-    date: "Feb 2022 - Present",
+    date: "Feb 2022 - June 2024",
     points: [
       "Build and implement top-notch user interfaces using React and Angular.",
       "Played an active role in quality assurance, documentation, and cross-team collaboration",
@@ -175,6 +176,19 @@ const experiences = [
       "Identified and troubleshooted issues with front end code.",
       "Made complex technical and design decisions for React JS projects.",
       "Developed application codes and unit tests in React and Rest Web Services.",
+    ],
+  },
+  {
+    title: "Junior 3D Designer and Developer",
+    company_name: "Freelance",
+    icon: freelance,
+    iconBg: "#E6DEDD",
+    date: "June 2024 - Current",
+    points: [
+      "Unity Certified User Developer",
+      "Develop interactive VR/3D experiences for clients using Unity and Unreal Engine.",
+      "Create engaging 3D assets using Blender.",
+      "Collaborate with clients on design and functionality to ensure project success.",
     ],
   },
 ];
