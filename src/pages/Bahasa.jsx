@@ -1,10 +1,13 @@
 import React from 'react'
 import LongList from '../assets/BahasaMain.png'
+import Navbar from "../components/Navbar"
+
 
 function Bahasa() {
   return (
         <section>
-            <div className="max-w-screen-1xl mx-auto px-4 py-8 gap-12 md:px-8 bg-tertiary questrial-regular">
+        <Navbar/>
+            <div className="max-w-screen-1xl mx-auto px-4 py-24 gap-12 md:px-8 bg-tertiary questrial-regular">
                 <div className="space-y-5 max-w-4xl mx-auto text-center">
                     <h1 className="text-3xl font-extrabold mx-auto md:text-4xl uppercase">
                     Bahasa - Realtime Translation Website

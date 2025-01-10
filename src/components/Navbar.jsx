@@ -41,9 +41,8 @@ const Navbar = () => {
             window.scrollTo(0, 0);
           }}
         >
-          <img src={logo} alt='logo' className='w-9 h-9 object-contain' />
-          <p className='text-white text-[18px] font-bold cursor-pointer flex '>
-            Ruth &nbsp;
+          <img src={logo} alt='logo' className='w-28 h-14 object-contain' />
+          <p className='text-white text-[18px] font-bold cursor-pointer flex '>&nbsp;
             <span className='sm:block hidden'> | 3D/UX Developer</span>
           </p>
         </Link>

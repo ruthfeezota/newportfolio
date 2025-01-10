@@ -30,14 +30,17 @@ export const navLinks = [
   {
     id: "about",
     title: "About",
+    link:"/about"
   },
   {
     id: "work",
     title: "Work",
+    link:"/work"
   },
   {
     id: "contact",
     title: "Contact",
+    link:"/contract"
   },
 ];
 
@@ -261,7 +264,7 @@ const projects = [
       },
     ],
     image: bahasa,
-    source_code_link: "ruthfee.com/bahasa",
+    source_code_link: "/bahasa",
   },
   {
     name: "Can We Smoke",
