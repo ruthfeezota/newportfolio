@@ -21,7 +21,7 @@ import {
   perficient,
   freelance,
   carrent,
-  jobit,
+  bahasa,
   tripguide,
   threejs,
 } from "../assets";
@@ -243,9 +243,9 @@ const projects = [
     source_code_link: "https://candropsproject1.web.app/",
   },
   {
-    name: "Job IT",
+    name: "Bahasa",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "This project involves building a user-friendly website to promote a mobile app for Bahasa Indonesia translation. The website showcases the app, provides language learning resources.",
     tags: [
       {
         name: "react",
@@ -256,12 +256,12 @@ const projects = [
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "tailwind",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/ruthfeezota",
+    image: bahasa,
+    source_code_link: "ruthfee.com/bahasa",
   },
   {
     name: "Can We Smoke",

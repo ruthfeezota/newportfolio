@@ -28,7 +28,7 @@ import infosys from "./company/infosys.jpeg";
 import freelance from "./company/freelance.png"
 
 import carrent from "./carrent.png";
-import jobit from "./jobit.png";
+import bahasa from "./bahasa.png";
 import tripguide from "./tripguide.png";
 
 export {
@@ -59,6 +59,6 @@ export {
   infosys,
   freelance,
   carrent,
-  jobit,
+  bahasa,
   tripguide,
 };
