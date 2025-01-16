@@ -22,7 +22,7 @@ import {
   freelance,
   carrent,
   bahasa,
-  tripguide,
+  simplewebsite,
   threejs,
 } from "../assets";
 
@@ -267,9 +267,9 @@ const projects = [
     source_code_link: "/bahasa",
   },
   {
-    name: "Can We Smoke",
+    name: "Simple Website",
     description:
-      "This cannabis app helps users track their intoxication by recording its intensity. Users meticulously logging the onset, duration, and perceived intensity of intoxication periods.",
+      "A dynamic web experience built with React, leveraging the power of three.js for stunning 3D visualizations, all styled with the elegant and efficient Tailwind CSS framework.",
     tags: [
       {
         name: "three.js",
@@ -284,8 +284,8 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: tripguide,
-    source_code_link: "https://bulgetextapp.firebaseapp.com",
+    image: simplewebsite,
+    source_code_link: "https://weedsamplewebsite.web.app",
   },
 ];
 

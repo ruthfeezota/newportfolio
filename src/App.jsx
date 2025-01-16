@@ -3,7 +3,7 @@ import { Routes, Route } from "react-router-dom";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Bahasa from "./pages/Bahasa"
-import { Navbar } from "./components";
+import Pause from "./pages/Pause";
 
 const App = () => {
   return (
@@ -12,6 +12,8 @@ const App = () => {
       <Route path="/" element={<Home />} />
       <Route path="/about" element={<About />} />
       <Route path="/bahasa" element={<Bahasa />} />
+      <Route path="/pause" element={<Pause />} />
+      
     </Routes>
   );
 };

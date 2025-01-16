@@ -29,7 +29,7 @@ import freelance from "./company/freelance.png"
 
 import carrent from "./carrent.png";
 import bahasa from "./bahasa.png";
-import tripguide from "./tripguide.png";
+import simplewebsite from "./tripguide.png";
 
 export {
   logo,
@@ -60,5 +60,5 @@ export {
   freelance,
   carrent,
   bahasa,
-  tripguide,
+  simplewebsite,
 };
